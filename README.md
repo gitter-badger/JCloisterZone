@@ -1,5 +1,7 @@
 # [JCloisterZone](http://jcloisterzone.com/)
 
+[![Join the chat at https://gitter.im/khalidqasrawi/JCloisterZone](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/khalidqasrawi/JCloisterZone?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 JCloisterZone is a Java implementation of a popular board game [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game)).
 It supports multiplayer game on a local computer or over a network.
